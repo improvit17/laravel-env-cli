@@ -1,5 +1,5 @@
 {
-    "name": "tamer-dev/laravel-env-cli",
+    "name": "improvit17/laravel-env-cli",
     "description": "laravel commands to work with .env file in cli",
     "license": "MIT",
     "authors": [
@@ -28,8 +28,8 @@
         }
     },
     "require": {
-        "php" : "^7.1|^8.0|^8.1",
-        "illuminate/support": "^5.7|^6.0|^7.0|^8.0|^9.0|^10.0"
+        "php" : "^7.1|^8.0|^8.1|^8.2|^8.3|^8.4",
+        "illuminate/support": "^5.7|^6.0|^7.0|^8.0|^9.0|^10.0|^11.0|^12.0"
     },
     "extra": {
         "laravel": {
